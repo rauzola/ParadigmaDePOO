@@ -8,9 +8,9 @@ public class Contador {
         }
     }
 
-    // Método para decrementar o valor da variável numero em 1, com limite de -1
+    // Método para decrementar o valor da variável numero em 10, com limite de -10
     public void diminuir() {
-        if (numero > -1) {
+        if (numero > -10) {
             numero--;
         }
     }
